@@ -12,6 +12,7 @@ public class Main {
     //This,is,an,eggplant,of,our,beautifull,sweety,baby
     //16
     public static void main(String[] args) {
+        System.out.println("master1");
         String str = "This,is,an,eggplant,of,our,beautifull,sweety,baby";
         int splitlength = 16;
         //str = str.replace(",","*");
