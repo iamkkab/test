@@ -13,6 +13,7 @@ public class Main {
     //16
     public static void main(String[] args) {
         System.out.println("master1");
+        System.out.println("master1");
         System.out.println("hotfix");
         String str = "This,is,an,eggplant,of,our,beautifull,sweety,baby";
         int splitlength = 16;
