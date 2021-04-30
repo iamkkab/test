@@ -15,6 +15,7 @@ public class Main {
         System.out.println("master1");
         System.out.println("master1");
         System.out.println("hotfix");
+        System.out.println("ziji");
         String str = "This,is,an,eggplant,of,our,beautifull,sweety,baby";
         int splitlength = 16;
         //str = str.replace(",","*");
